@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhan
 - 👀 I’m interested in Cloud
 - 📫 Reach me on [LinedIn](https://www.linkedin.com/in/dhan-v-sagar/) 
-- College days blog [Ideid](http://ideid.blogspot.com)
+- College days blog archive [Ideid](http://ideid.blogspot.com)
 
 <!---
 dhanvsagar/dhanvsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
