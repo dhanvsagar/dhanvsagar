@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhan
-- 👀 I’m interested in Cloud
+- 👀 I’m interested in Cloud Navtive, Observability, IPTV/OTT and ML
 - 📫 Reach me on [LinedIn](https://www.linkedin.com/in/dhan-v-sagar/) 
-- Personal [website](https://dhanvsagar.com/about/){:target="_blank"}
+- Personal [website](https://dhanvsagar.com/about/)
 - College days blog archive [Ideid](http://ideid.blogspot.com)
 
 <!---
