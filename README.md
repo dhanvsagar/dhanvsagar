@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhan
-- 👀 I’m interested in Cloud Navtive Technologies, Observability, Machine Learning and IPTV/OTT. 
+- 👀 I’m interested in Cloud Navtive Technologies, Observability, Machine Learning, Agentic AI and IPTV/OTT. 
 - 📫 Reach me on [LinedIn](https://www.linkedin.com/in/dhan-v-sagar/) 
 - Personal [Website](https://dhanvsagar.com/)
 - College days blog archive [Ideid](http://ideid.blogspot.com)
